@@ -3,7 +3,7 @@ Web de Bulletproof Prod. con sistema de Tickets, gestión de inventario, control
 Tipos de usuario: Usuario y Admin.
 
 # Demo
-* enlace demo * 
+https://youtu.be/x_iYFwF93w0
 
 # Datos de la cuenta del administrador
 Usuario: Administrador
