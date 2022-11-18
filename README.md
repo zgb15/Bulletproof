@@ -10,3 +10,4 @@ Usuario: Administrador
 Clave: Administrador
 
 ![Image text](https://github.com/zgb15/Bulletproof/blob/master/inicio.PNG)
+![Image text](https://github.com/zgb15/Bulletproof/blob/master/img/calendario.png)
