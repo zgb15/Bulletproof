@@ -4,6 +4,7 @@ Tipos de usuario: Usuario y Admin.
 
 # Demo
 https://youtu.be/x_iYFwF93w0
+[Managed Disks](#managed-disks)
 
 # Datos de la cuenta del administrador
 Usuario: Administrador
