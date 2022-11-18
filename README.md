@@ -8,3 +8,5 @@ Tipos de usuario: Usuario y Admin.
 # Datos de la cuenta del administrador
 Usuario: Administrador
 Clave: Administrador
+
+![Image text](https://github.com/zgb15/MySpotify/blob/master/00PRUEBAS/spotifymd.png)
