@@ -1,8 +1,8 @@
 # Bulletproof Production
 ### Descripción
-[ES] Web de Bulletproof Prod. con sistema de Tickets, gestión de inventario, control de fichajes / asistencia y calendario de eventos. 
+_[ES]_ Web de Bulletproof Prod. con sistema de Tickets, gestión de inventario, control de fichajes / asistencia y calendario de eventos. 
 Tipos de usuario: Usuario y Admin.  
-[EN]
+_[EN]_
 
 # Demo
 [Ver aquí](https://youtu.be/x_iYFwF93w0)
