@@ -9,4 +9,4 @@ Tipos de usuario: Usuario y Admin.
 Usuario: Administrador
 Clave: Administrador
 
-![Image text](https://github.com/zgb15/MySpotify/blob/master/00PRUEBAS/spotifymd.png)
+![Image text](https://github.com/zgb15/Bulletproof/blob/master/inicio.PNG)
