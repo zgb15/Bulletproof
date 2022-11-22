@@ -11,4 +11,4 @@ Usuario: Administrador
 Clave: Administrador
 
 ## Interfaz
-![Image text](https://github.com/zgb15/Bulletproof/blob/master/intranet.PNG)
+![Image text](https://github.com/zgb15/Bulletproof/blob/master/img/Intranet.png)
