@@ -10,6 +10,5 @@ Tipos de usuario: Usuario y Admin.
 Usuario: Administrador
 Clave: Administrador
 
-## Interfaces
-![Image text](https://github.com/zgb15/Bulletproof/blob/master/inicio.PNG)
-![Image text](https://github.com/zgb15/Bulletproof/blob/master/img/calendario.png)
+## Interfaz
+![Image text](https://github.com/zgb15/Bulletproof/blob/master/intranet.PNG)
