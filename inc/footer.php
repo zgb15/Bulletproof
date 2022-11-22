@@ -20,6 +20,7 @@
       <div class="col-sm-4">
         <h4 class="text-info">Suscríbete</h4>
         <p class="text-muted">Suscríbete para enterarte de todas nuestras producciones</p>
+        <!--
         <form action="" method="POST">
           <div class="input-group">
             <input type="email" class="form-control">
@@ -28,6 +29,7 @@
             </span>
           </div>
         </form>
+        -->
       </div>
     </div>
     <h4 class="text-center" style="color: #FFF;"></h4>
