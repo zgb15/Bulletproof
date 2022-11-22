@@ -93,12 +93,14 @@
                 <?php endif; ?>
 
             </ul>
+            <!--
             <form class="navbar-form navbar-right hidden-xs" role="search">
                 <div class="form-group">
                     <input type="text" class="form-control" placeholder="Buscar">
                 </div>
                 <button type="button" class="btn btn-info">Buscar</button>
             </form>
+            -->
         </div>
     </div>
 </nav>
